@@ -79,19 +79,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 {
                     name: "Game Platformer",
                     type: "video",
-                    src: "Game/Game1.mp4",
+                    src: "Game1.mp4",
                     description: "Dokumentasi proyek game pertama."
                 },
                 {
                     name: "Game 2",
                     type: "video",
-                    src: "Game/Game2.mp4",
+                    src: "Game2.mp4",
                     description: "Dokumentasi proyek game kedua."
                 },
                 {
                     name: "Game 3",
                     type: "video",
-                    src: "Game/Game3.mp4",
+                    src: "Game3.mp4",
                     description: "Dokumentasi proyek game ketiga."
                 }
             ]
@@ -104,19 +104,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 {
                     name: "Aplikasi 1",
                     type: "image",
-                    src: "ProgramAplikasi/apk1.png",
+                    src: "apk1.png",
                     description: "Tampilan aplikasi pertama."
                 },
                 {
                     name: "Aplikasi 2",
                     type: "image",
-                    src: "ProgramAplikasi/apk2.png",
+                    src: "apk2.png",
                     description: "Tampilan aplikasi kedua."
                 },
                 {
                     name: "Aplikasi 3",
                     type: "image",
-                    src: "ProgramAplikasi/apk3.png",
+                    src: "apk3.png",
                     description: "Tampilan aplikasi ketiga."
                 }
             ]
@@ -129,19 +129,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 {
                     name: "3D Design 1",
                     type: "video",
-                    src: "3D/1.mp4",
+                    src: "1.mp4",
                     description: "Hasil desain 3D pertama."
                 },
                 {
                     name: "3D Design 2",
                     type: "video",
-                    src: "3D/2.mp4",
+                    src: "2.mp4",
                     description: "Hasil desain 3D kedua."
                 },
                 {
                     name: "3D Design 3",
                     type: "video",
-                    src: "3D/3.mp4",
+                    src: "3.mp4",
                     description: "Hasil desain 3D ketiga."
                 }
             ]
@@ -154,19 +154,19 @@ document.addEventListener("DOMContentLoaded", function () {
                 {
                     name: "Poster 1",
                     type: "image",
-                    src: "DesainGrafis/Desain1.png",
+                    src: "Desain1.png",
                     description: "Hasil desain poster pertama."
                 },
                 {
                     name: "Poster 2",
                     type: "image",
-                    src: "DesainGrafis/Desain2.png",
+                    src: "Desain2.png",
                     description: "Hasil desain poster kedua."
                 },
                 {
                     name: "Poster 3",
                     type: "image",
-                    src: "DesainGrafis/Desain3.png",
+                    src: "Desain3.png",
                     description: "Hasil desain poster ketiga."
                 }
             ]
