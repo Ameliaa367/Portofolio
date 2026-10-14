@@ -154,13 +154,13 @@ document.addEventListener("DOMContentLoaded", function () {
                 {
                     name: "Poster 1",
                     type: "image",
-                    src: "Desain1.png",
+                    src: "Desain1.jpg",
                     description: "Hasil desain poster pertama."
                 },
                 {
                     name: "Poster 2",
                     type: "image",
-                    src: "Desain2.png",
+                    src: "Desain2.jpg",
                     description: "Hasil desain poster kedua."
                 },
                 {
